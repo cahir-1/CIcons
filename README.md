@@ -1,5 +1,5 @@
 # CIcons
-![cahir.jpg](https://raw.githubusercontent.com/cahir-1/CIcons/main/cahir.jpg)
+![cahir.jpg](https://raw.githubusercontent.com/cahir-1/CIcons/main/cahirsmaller.jpg)
 
 This Repository is mission critical for applications using "Chair Icons".
 
