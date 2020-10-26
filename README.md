@@ -1,2 +1,6 @@
 # CIcons
-This Repository is mission critical for applications using "Chair Icons.
+This Repository is mission critical for applications using "Chair Icons".
+
+CIcons stands for "Cahir Icons," Three icons that used globally. This Repository was created so that people can easily download and use Cahir Icons.
+There are three Icons that are based off of a cat, "Bean"
+
